@@ -39,4 +39,4 @@ I deployed to model to HuggingFace Spaces Gradio App. The implementation can be 
 <img src = "deployment/hugging.png" width="900" height="350">
 
 # API integration with GitHub Pages
-The deployed model API is integrated [here](saadism777.github.io/Sports-Instrument-Recognizer/) in GitHub Pages Website. Implementation and other details can be found in `docs` folder.
+The deployed model API is integrated [here](https://saadism777.github.io/Sports-Instrument-Recognizer/) in GitHub Pages Website. Implementation and other details can be found in `docs` folder.
