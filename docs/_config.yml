@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Sports Instrument Recognizer
+description: An image classification API that classifies 21 different types of sports related equipments
+
+author:
+  name: Farhan Hasin Saad
